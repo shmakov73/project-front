@@ -1,0 +1,70 @@
+body {
+    background: lightgrey;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 2px;
+
+}
+
+h1 {
+    margin: auto;
+    width: 1000px;
+}
+
+h2 {
+    margin-left: auto;
+}
+
+table{
+    margin: auto;
+    width: 1000px;
+}
+#input_name_new{
+}
+#account_creation{
+    clear:both;
+    text-align:right;
+    display: table;
+    border: 2px solid;
+    border-radius: 6px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 30px;
+    margin: auto;
+    background: #bfbfbb;
+}
+#pagingButtons{
+    margin: auto;
+    width: 1000px;
+}
+
+#count_on_page{
+margin: auto;
+    width: 1000px;
+}
+label{
+    float:left;
+}
+#input_name_new{
+    width: 150px;
+}
+#input_title_new{
+    width: 150px;
+}
+#input_race_new{
+    width: 150px;
+}
+#input_profession_new{
+    width: 150px;
+}
+#input_level_new{
+    width: 150px;
+}
+#input_birthday_new{
+    width: 150px;
+}
+#input_banned_new{
+    width: 150px;
+}
